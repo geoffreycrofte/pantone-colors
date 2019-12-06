@@ -12,7 +12,8 @@ Made by [Margaret](https://github.com/Margaret2/pantone-colors)
 
 ## Next Evolutions
 
-* Create a more scalable project (SASS, JS table of color generation from JSON File)
-* Create a dist folder
-* Create a search by name or hexacode.
-* Copy the feature [here](https://codebeautify.org/hex-to-pantone-converter) from [this script](https://codebeautify.org/dist/1.3/js/pantonJS.js).
+* [x] Edit Readme
+* [ ] Create a more scalable project (SASS, JS table of color generation from JSON File)
+* [ ] Create a dist folder
+* [ ] Create a search by name or hexacode.
+* [ ] Copy the feature [here](https://codebeautify.org/hex-to-pantone-converter) from [this script](https://codebeautify.org/dist/1.3/js/pantonJS.js).
